@@ -1,2 +1,2 @@
-# Front-End-Exerc-cios
+# Front-End
 Aprendizados de Front End
